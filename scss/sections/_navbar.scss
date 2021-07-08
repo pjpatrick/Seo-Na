@@ -8,9 +8,10 @@ li{
     padding: 0 0.7rem;
     
     a{
-        color: #684911 !important;
-        text-transform: capitalize;
-        font-weight: 600;
+        //color: #684911 
+        color: white !important;
+        text-transform: uppercase;
+        font-weight: bold;
     }
   }
 }
@@ -20,7 +21,7 @@ li{
     font-size: 24px;
     max-height: 10rem;
   }
-  .navbar-brand img {
+.navbar-brand img {
     height: 5rem;
     /* put value of image height as your need */
     float: left;

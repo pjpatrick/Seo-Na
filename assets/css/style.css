@@ -10863,9 +10863,9 @@ textarea.form-control-lg {
   padding: 0 0.7rem;
 }
 .menu li a {
-  color: #684911 !important;
-  text-transform: capitalize;
-  font-weight: 600;
+  color: white !important;
+  text-transform: uppercase;
+  font-weight: bold;
 }
 
 .navbar-brand {
@@ -10883,9 +10883,15 @@ textarea.form-control-lg {
 
 .intro-section {
   background: linear-gradient(to left, rgba(0, 0, 0, 0.95), rgba(0, 128, 128, 0.95));
-  padding: 10rem 0 0 0;
+  padding: 1rem 0 1rem 0;
   width: 100%;
   height: 100%;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.intro-section .tylink {
+  color: gold;
+  font-size: 1.4rem;
 }
 
 .intros .video-box {

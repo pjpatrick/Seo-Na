@@ -4,10 +4,17 @@
 
 .intro-section {
     @include nav-gradient;
-    padding: 10rem 0 0 0 ;
+    padding: 1rem 0 1rem 0;
     width: 100%;
     height: 100%;
-
+    font-weight: bold;
+    font-size: 1.5rem;
+    
+    .tylink {
+        color:gold;
+        font-size: 1.4rem;
+    }
+    
 }
 
 .intros {
